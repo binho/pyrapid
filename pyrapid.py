@@ -11,8 +11,8 @@ import os
 import time
 
 # username and password for rapid share premium account
-username = 'cleber.santos'
-password = 'n70nokia'
+username = 'yourusername'
+password = 'yourpassword'
 
 # current directory
 dir = os.getcwd()
